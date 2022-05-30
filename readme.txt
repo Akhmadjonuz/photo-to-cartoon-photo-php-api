@@ -5,7 +5,7 @@
 
 # Copyright reserved!
 # dadabayev.uz
-# +998902224311
+# +998 90 222 43 11
 # telegram: @Akhmadjon
 
 # Авторские права защищены!
