@@ -1,4 +1,4 @@
-# Mualliflik huquqi saqlansin!
+# Mualliflik huquqi saqlansin !
 # dadabayev.uz
 # +998 90 222 43 11
 # telegram: @Akhmadjon
