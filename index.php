@@ -29,3 +29,6 @@ function convert($name, $image)
 $name   = 'new-'.time().'.png';
 $image  = new CURLFile('image.jpg');
 convert($name, $image);
+
+
+?>
