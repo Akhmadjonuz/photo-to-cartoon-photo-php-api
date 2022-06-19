@@ -7,7 +7,7 @@ function convert($name, $image)
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
-    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_POST, true);
     $headers    = array();
     $headers[]  = 'Host: cartoon.lyrebirdstudio.net';
     $headers[]  = 'X-AB-Model: cartoon2';
